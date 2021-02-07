@@ -1,0 +1,32 @@
+.btn-blue { 
+   background-color: black;
+   padding: 10px 40px;
+   border-radius: 4px; 
+   color: white;
+   font-weight: bold;
+   font-family:'Amiri', serif;
+   margin: 600px;
+   width: 240px;
+   height: 200px;
+   flex-basis: 250px;
+   flex-grow: 1;
+   align-items: center;
+   
+   
+  
+} 
+
+
+.btn-link {
+	color: black;
+	text-decoration: none;
+    transition: color 0.3s ease
+
+}
+
+.btn-link:hover {
+  color: green;
+  text-decoration: none;
+}
+
+{}
